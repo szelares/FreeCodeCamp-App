@@ -1,2 +1,2 @@
 # FreeCodeCamp-App
-### Simple applications created within the FreeCodeCamp Front End Developer course.
+### Simple application created within the FreeCodeCamp Front End Developer course.
