@@ -5,14 +5,17 @@
 }
 /* colors '#16a085', '#27ae60', '#2c3e50', '#f39c12', '#e74c3c', '#9b59b6', '#FB6964', '#342224', "#472E32", "#BDBB99", "#77B1A9", "#73A857"
 */
+body {
+  background-color: #C5FB85;
+}
 .header {
-  background-color: #ff794c;
+  background-color: #8593B2;
   height: 100px;
   padding: 10px;
 }
 h1 {
 	text-align: center;
-	color: #BDBB99;
+	color: white;
 }
 .jumbotron {
   margin-top:30px;
